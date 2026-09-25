@@ -19,7 +19,8 @@ At traffic signals, pedestrians use zebra crossings to cross the road. However, 
 ---
 
 ## Block Diagram
-![Block Diagram](Block_diagram.jpeg)
+![Block Diagram](block_diagram.png)<img width="1408" height="768" alt="Block diagram" src="https://github.com/user-attachments/assets/9ac3379b-c9b6-496b-a7d4-2cde29dd98d2" />
+
 
 ---
 
@@ -34,7 +35,7 @@ At traffic signals, pedestrians use zebra crossings to cross the road. However, 
 ---
 
 ## Circuit Diagram
-![Circuit Diagram](Circuit_diagram.jpeg)
+![Circuit Diagram](circuit_diagram.png)<img width="1536" height="1024" alt="Circuit diagram" src="https://github.com/user-attachments/assets/f836bfe7-17fd-40ef-aa0e-03be42364f36" />
 
 ---
 

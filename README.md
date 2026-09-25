@@ -19,7 +19,7 @@ At traffic signals, pedestrians use zebra crossings to cross the road. However, 
 ---
 
 ## Block Diagram
-![Block Diagram](path/to/your/block-diagram-image.png)
+![Block Diagram](Block_diagram.jpeg)
 
 ---
 
@@ -34,10 +34,9 @@ At traffic signals, pedestrians use zebra crossings to cross the road. However, 
 ---
 
 ## Circuit Diagram
-![Circuit Diagram](path/to/your/circuit-diagram-image.png)
+![Circuit Diagram](Circuit_diagram.jpeg)
 
 ---
 
 ## Conclusion
 This project improves pedestrian safety at traffic crossings by detecting pedestrians and providing a controlled crossing time through a countdown system. It also monitors stop-line violations using sensors and alerts drivers through visual indications. By combining pedestrian detection, countdown monitoring, and violation detection, the system helps create a safer and more disciplined traffic environment.
-<img width="1408" height="768" alt="Image 1" src="https://github.com/user-attachments/assets/795f5d3f-214c-46b1-8065-bb9c37f354ad" />
